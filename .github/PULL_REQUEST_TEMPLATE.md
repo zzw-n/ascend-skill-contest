@@ -1,5 +1,10 @@
 # Ascend Skill Contest 参赛提交
 
+**PR 标题**：**必须**包含 `[inference]` 或 `[training]` 标签。  
+示例：`[inference] 推理Skill题目提交`
+
+---
+
 请根据实际参与的题目填写下方对应部分，未参与的题目可删除该节。
 
 ---
@@ -47,7 +52,7 @@ CANN / PyTorch / torch_npu
 
 ---
 
-## 题目4: Verl 部署
+## 题目1: Verl 部署
 
 ### Skill名称
 
@@ -57,7 +62,7 @@ CANN / PyTorch / torch_npu
 
 ---
 
-## 题目5: 模型迁移（GPU → 昇腾 NPU）
+## 题目2: 模型迁移（GPU → 昇腾 NPU）
 
 ### Skill名称
 
@@ -67,7 +72,7 @@ CANN / PyTorch / torch_npu
 
 ---
 
-## 题目6: 训练框架 Profiling 采集
+## 题目3: 训练框架 Profiling 采集
 
 ### Skill名称
 

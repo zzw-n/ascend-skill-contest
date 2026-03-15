@@ -1,6 +1,8 @@
 # Ascend Skill Contest
 
-![AGENT SKILL开发大比武](docs/poster.png)
+<p align="center">
+  <img src="docs/poster.png" alt="AGENT SKILL开发大比武" width="50%">
+</p>
 
 ## 比赛题目
 
